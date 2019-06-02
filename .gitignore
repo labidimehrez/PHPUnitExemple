@@ -15,3 +15,5 @@
 !var/sessions/.gitkeep
 /vendor/
 /web/bundles/
+/README.md
+!README.md
