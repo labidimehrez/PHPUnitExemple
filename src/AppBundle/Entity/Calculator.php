@@ -12,7 +12,9 @@ namespace AppBundle\Entity;
  * @author mehrez
  */
 class Calculator {
+    
     public function add($a, $b) {
         return $a + $b;
     }
+    
 }
